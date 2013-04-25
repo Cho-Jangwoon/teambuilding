@@ -1,0 +1,7 @@
+<script language="text/javascript">
+
+var tmp_msg = 'Hellow World';
+
+alert (tmp_msg);
+
+</script>
